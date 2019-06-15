@@ -11,3 +11,5 @@ add_subdirectory(example4)
 #add_subdirectory(example5)
 ## Example6 depends on libsumLib.a from Example5
 #add_subdirectory(example6)
+
+add_subdirectory(example7)
