@@ -6,3 +6,6 @@ add_subdirectory(example1)
 add_subdirectory(example2)
 add_subdirectory(example3)
 add_subdirectory(example4)
+
+## One-shot compiling of sumLib and mainLib fails: not resolved
+#add_subdirectory(example5)
