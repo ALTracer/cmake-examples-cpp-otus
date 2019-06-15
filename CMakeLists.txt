@@ -9,3 +9,5 @@ add_subdirectory(example4)
 
 ## One-shot compiling of sumLib and mainLib fails: not resolved
 #add_subdirectory(example5)
+## Example6 depends on libsumLib.a from Example5
+#add_subdirectory(example6)
